@@ -31,6 +31,14 @@ function Realisations() {
     },
   ]
 
+  const borneImages = [
+    'https://i.ibb.co/gbbpT9Kj/realisation-borne-1.jpg',
+    'https://i.ibb.co/Kc7tMMXV/realisation-borne-2.jpg',
+    'https://i.ibb.co/dw86T0zV/realisation-borne-3.jpg',
+    'https://i.ibb.co/ksLD04r5/realisation-borne-4.jpg',
+    'https://i.ibb.co/tMVvbJKd/realisation-borne-5.jpg',
+  ]
+
   return (
     <main>
       <section className="section">
@@ -51,6 +59,17 @@ function Realisations() {
               </div>
             ))}
           </div>
+          <h2>Installations de bornes de recharge</h2>
+          <div className="realisations-grid">
+            {borneImages.map((src, index) => (
+              <div className="realisations-item" key={index}>
+                <img
+                  src={src}
+                  alt={`Installation de borne de recharge ${index + 1}`}
+                />
+              </div>
+            ))}
+          </div>
         </div>
       </section>
     </main>
@@ -58,3 +77,4 @@ function Realisations() {
 }
 
 export default Realisations
+
