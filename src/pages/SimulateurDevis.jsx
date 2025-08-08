@@ -107,7 +107,7 @@ function SimulateurDevis() {
 
             {resultat !== null && (
               <div className="devis-result">
-                Estimation du coût : <strong>{resultat.toFixed(2)} € TTC</strong>
+                Estimation du coût : <strong>{resultat.toFixed(2)} € TTC</strong>
               </div>
             )}
           </form>

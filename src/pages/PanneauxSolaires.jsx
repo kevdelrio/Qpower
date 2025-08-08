@@ -21,7 +21,7 @@ function PanneauxSolaires() {
                 performants, adaptés à votre toit et à votre consommation.
               </p>
               <p>
-                Nous réalisons une étude approfondie : orientation et
+                Nous réalisons une étude approfondie : orientation et
                 inclinaison du toit, ensoleillement, dimensionnement de la
                 puissance, choix des modules et des onduleurs. Nos équipes
                 certifiées procèdent ensuite à l’installation et au raccordement

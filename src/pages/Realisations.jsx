@@ -18,14 +18,14 @@ function Realisations() {
     {
       title: 'Installation d’une borne de recharge',
       description:
-        'Pose d’une borne 7 kW dans un garage de particulier avec contrôle de charge intelligent.',
+        'Pose d’une borne 7 kW dans un garage de particulier avec contrôle de charge intelligent.',
       image:
         'https://upload.wikimedia.org/wikipedia/en/c/cc/Electric_Vehicles_Charging.jpg',
     },
     {
       title: 'Pose de panneaux solaires',
       description:
-        '10 panneaux installés sur une toiture inclinée pour une production annuelle de 3,5 kWc.',
+        '10 panneaux installés sur une toiture inclinée pour une production annuelle de 3,5 kWc.',
       image:
         'https://images.unsplash.com/flagged/photo-1566838803980-56bfa5300e8c?auto=format&fit=crop&w=1600&q=80',
     },

@@ -8,8 +8,8 @@ import '../App.css'
 function Blog() {
   const posts = [
     {
-      title: 'Économies d’énergie : nos conseils',
-      date: '10 août 2025',
+      title: 'Économies d’énergie : nos conseils',
+      date: '10 août 2025',
       excerpt:
         'Réduire votre consommation d’électricité est plus simple qu’il n’y paraît. Découvrez nos astuces pour économiser au quotidien.',
       image:
@@ -17,7 +17,7 @@ function Blog() {
     },
     {
       title: 'Innovations dans les bornes de recharge',
-      date: '5 juillet 2025',
+      date: '5 juillet 2025',
       excerpt:
         'Les nouvelles générations de bornes intelligentes optimisent la charge de votre véhicule et la répartition de la puissance.',
       image:
@@ -25,9 +25,9 @@ function Blog() {
     },
     {
       title: 'Comprendre le photovoltaïque',
-      date: '15 juin 2025',
+      date: '15 juin 2025',
       excerpt:
-        'Comment fonctionne une installation solaire ? Quels sont les composants essentiels et comment choisir la bonne puissance ?',
+        'Comment fonctionne une installation solaire ? Quels sont les composants essentiels et comment choisir la bonne puissance ?',
       image:
         'https://images.unsplash.com/flagged/photo-1566838803980-56bfa5300e8c?auto=format&fit=crop&w=1600&q=80',
     },
