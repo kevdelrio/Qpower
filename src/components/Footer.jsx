@@ -47,9 +47,9 @@ function Footer() {
           </div>
           <div className="footer-column">
             <h4>Coordonnées</h4>
-            <p>Adresse : Bruxelles, Belgique</p>
-            <p>Téléphone : +32 123 45 67 89</p>
-            <p>Email : info@qpower.be</p>
+            <p>Adresse : Bruxelles, Belgique</p>
+            <p>Téléphone : +32 123 45 67 89</p>
+            <p>Email : info@qpower.be</p>
           </div>
           <div className="footer-column">
             <h4>Suivez‑nous</h4>
@@ -67,7 +67,7 @@ function Footer() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© {currentYear} QPower. Tous droits réservés.</p>
+          <p>© {currentYear} QPower. Tous droits réservés.</p>
         </div>
       </div>
     </footer>

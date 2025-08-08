@@ -24,8 +24,8 @@ function BornesRecharge() {
                 entreprises.
               </p>
               <p>
-                Nous installons des bornes de différentes puissances (3,7 kW à
-                22 kW) en fonction de vos besoins et de la capacité de votre
+                Nous installons des bornes de différentes puissances (3,7 kW à
+                22 kW) en fonction de vos besoins et de la capacité de votre
                 installation électrique. Nos techniciens certifiés vous
                 conseillent sur le choix de la borne, réalisent le
                 dimensionnement et assurent la mise en service en toute
@@ -34,7 +34,7 @@ function BornesRecharge() {
               </p>
               <p>
                 En choisissant QPower, vous bénéficiez d’un accompagnement
-                personnalisé : analyse de vos besoins, devis détaillé,
+                personnalisé : analyse de vos besoins, devis détaillé,
                 installation professionnelle et maintenance. Nous pouvons
                 également proposer des solutions de gestion intelligente de la
                 charge pour optimiser votre consommation.

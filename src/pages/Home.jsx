@@ -48,7 +48,7 @@ function Home() {
           <h2>Nos services</h2>
           <p>
             Nous proposons une gamme complète de prestations pour répondre à vos
-            besoins en énergie : électricité générale, installation de bornes de
+            besoins en énergie : électricité générale, installation de bornes de
             recharge et de panneaux solaires.
           </p>
           <div className="services-grid">
@@ -77,7 +77,7 @@ function Home() {
       {/* Call to Action Section */}
       <section className="cta-section">
         <div className="container cta-container">
-          <h2>Prêt·e à franchir le pas ?</h2>
+          <h2>Prêt·e à franchir le pas ?</h2>
           <p>
             Faites confiance à QPower pour optimiser votre consommation
             énergétique et installer des solutions durables.

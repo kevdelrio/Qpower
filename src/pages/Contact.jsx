@@ -25,16 +25,16 @@ function Contact() {
         <div className="container">
           <h1>Contact</h1>
           <p>
-            Une question ? Un projet à nous confier ? N’hésitez pas à nous
+            Une question ? Un projet à nous confier ? N’hésitez pas à nous
             contacter via le formulaire ci‑dessous ou par téléphone.
           </p>
           <div className="contact-container">
             <div className="contact-info">
               <h3>Nos coordonnées</h3>
-              <p>Adresse : Bruxelles, Belgique</p>
-              <p>Téléphone : +32 123 45 67 89</p>
-              <p>Email : info@qpower.be</p>
-              <p>Horaires : du lundi au vendredi, 8h00 – 18h00</p>
+              <p>Adresse : Bruxelles, Belgique</p>
+              <p>Téléphone : +32 123 45 67 89</p>
+              <p>Email : info@qpower.be</p>
+              <p>Horaires : du lundi au vendredi, 8h00 – 18h00</p>
             </div>
             <div className="contact-form-wrapper">
               {submitted ? (
